@@ -1,3 +1,7 @@
+https://www.sslproxies.org/
+https://free-proxy-list.net/
+https://www.us-proxy.org/
+https://www.socks-proxy.net/
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=http
 https://openproxy.space/list/http
 https://openproxylist.xyz/http.txt
