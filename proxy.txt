@@ -57,3 +57,7 @@ https://raw.githubusercontent.com/hanwayTech/free-proxy-list/main/https.txt
 https://raw.githubusercontent.com/saisuiu/uiu/main/free.txt
 https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt
 https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/https.txt
+https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/all.txt
+https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/http.txt
+https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/socks4.txt
+https://raw.githubusercontent.com/TuanMinPay/live-proxy/refs/heads/master/socks5.txt
