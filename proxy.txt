@@ -4,9 +4,6 @@ https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5
 https://free-proxy-list.net/anonymous-proxy.txt
 https://proxylist.geonode.com/api/proxy-list?limit=500&page=1
-https://www.proxylite.tk/api/Proxy
-https://proxyscan.io/download?type=http
-https://www.proxyscan.io/download?type=https
 https://proxyspace.pro/http.txt
 https://raw.githubusercontent.com/almroot/proxylist/master/list.txt
 https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt
@@ -37,8 +34,6 @@ https://www.sslproxies.org/
 https://www.us-proxy.org/
 https://www.socks-proxy.net/
 https://spys.one/free-proxy-list/TR/
-https://www.proxyturk.com/
-https://www.turkproxylist.com/
 https://hidemy.name/tr/proxy-list/?type=hs&anon=4#list
 https://openproxy.space/list/http
 https://openproxylist.xyz/http.txt
